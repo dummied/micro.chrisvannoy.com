@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://chrisvannoy.micro.blog/2024/03/12/so-i-made.html",
+				
+				"content_html": "<p>So, I made a thing. It&rsquo;s a fairly useless thing, but I wanted somewhere to link to from the footer of my blog and other future things, so I went and made a thing to link to.</p>\n\n<p>To say I&rsquo;m not using AI to generate my content.</p>\n\n<p><a href=\"https://noai.omg.lol\">noai.omg.lol</a></p>\n",
+				"content_text": "So, I made a thing. It's a fairly useless thing, but I wanted somewhere to link to from the footer of my blog and other future things, so I went and made a thing to link to.\n\nTo say I'm not using AI to generate my content.\n\n[noai.omg.lol](https://noai.omg.lol)\n",
+				"date_published": "2024-03-12T14:33:48-05:00",
+				"url": "https://micro.chrisvannoy.com/2024/03/12/so-i-made.html"
+			},
+			{
+				"id": "http://chrisvannoy.micro.blog/2024/02/26/sent-my-first.html",
+				
+				"content_html": "<p>Sent my first email newsletter (not from here, but buttondown) in a good long while and nobody has unsubscribed yet!</p>\n\n<p>Bits about AI, coffee, and software engineering hiring.</p>\n\n<p><a href=\"https://buttondown.email/chrisvannoy/archive/first-edition-nothing-artifical/\">buttondown.email/chrisvann&hellip;</a></p>\n",
+				"content_text": "Sent my first email newsletter (not from here, but buttondown) in a good long while and nobody has unsubscribed yet!\n\nBits about AI, coffee, and software engineering hiring.\n\n[buttondown.email/chrisvann...](https://buttondown.email/chrisvannoy/archive/first-edition-nothing-artifical/)\n",
+				"date_published": "2024-02-26T12:03:43-05:00",
+				"url": "https://micro.chrisvannoy.com/2024/02/26/sent-my-first.html"
+			},
+			{
 				"id": "http://chrisvannoy.micro.blog/2024/02/22/its-hard-to.html",
 				
 				"content_html": "<p>It’s hard to not take rejection personally. And both searching for a job and trying to spin up a consulting business come with a <em>lot</em> of rejection.</p>\n\n<p>Rough couple of days for that.</p>\n\n<p>Nothing a run followed by a Culver’s double won’t fix, though.</p>\n\n<p>Probably.</p>\n",
