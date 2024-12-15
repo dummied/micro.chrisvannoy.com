@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisvannoy.micro.blog/2024/12/15/software-engineers-solve.html",
+				
+				"content_html": "<p>Software engineers solve problems for a living.</p>\n\n<p>If you don’t give them interesting problems and leave them bored, they’ll manufacture their own.</p>\n\n<p>Then you end up with Kubernetes, React, things of that nature.</p>\n\n<p>And that’s the <em>best</em> case.</p>\n",
+				"content_text": "Software engineers solve problems for a living.\n\nIf you don’t give them interesting problems and leave them bored, they’ll manufacture their own.\n\nThen you end up with Kubernetes, React, things of that nature.\n\nAnd that’s the _best_ case.\n",
+				"date_published": "2024-12-15T10:56:15-05:00",
+				"url": "https://micro.chrisvannoy.com/2024/12/15/software-engineers-solve.html"
+			},
+			{
 				"id": "http://chrisvannoy.micro.blog/2024/11/18/having-to-break.html",
 				
 				"content_html": "<p>Having to break out my rusty sales deck skills for a presentation next week.</p>\n\n<p>Kinda like the direction things are heading.</p>\n\n<p><img src=\"uploads/2024/image.png\" width=\"600\" height=\"263\" alt=\"Startups don’t know how to manage their software engineering teams all that well. Axiomatic is there to help. \"></p>\n",
